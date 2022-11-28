@@ -1,5 +1,4 @@
-[Файл Тестирование_сайта_Дом_питомца.xlsx на Google Диск](https://docs.google.com/spreadsheets/d/1yitQ8WUgjxtnAfFSih4LsHPw9lWBjB2N/edit#gid=995252482 "click me")
-
+[Открыть файл "Тестирование_сайта_Дом_питомца.xlsx" на Google Диск](https://docs.google.com/spreadsheets/d/1yitQ8WUgjxtnAfFSih4LsHPw9lWBjB2N/edit#gid=995252482 "click me")
 
 ### Требования к тестированию сайта "Дом питомца"
 
